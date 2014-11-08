@@ -1,6 +1,8 @@
 DrCOM Client for jilin university
 -------------
 
+本项目已 fork 到 https://github.com/drcoms/jlu-drcom-client， 该 repo 停止更新。
+
 有关其他学校
 -------------
 HITwh的Shindo酱优秀的项目,u62R0（理论上u64也是可以的），带802.1x <br>
