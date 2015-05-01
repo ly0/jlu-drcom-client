@@ -1,7 +1,7 @@
 DrCOM Client for jilin university
 -------------
 
-本项目已 fork 到 https://github.com/drcoms/jlu-drcom-client， 该 repo 停止更新。
+本项目已 fork 到 https://github.com/drcoms/jlu-drcom-client ， 该 repo 停止更新。
 
 有关其他学校
 -------------
